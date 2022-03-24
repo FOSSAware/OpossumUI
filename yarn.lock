@@ -1110,10 +1110,10 @@
     ajv "^6.12.0"
     ajv-keywords "^3.4.1"
 
-"@electron/get@^1.0.1":
-  version "1.13.1"
-  resolved "https://registry.yarnpkg.com/@electron/get/-/get-1.13.1.tgz#42a0aa62fd1189638bd966e23effaebb16108368"
-  integrity sha512-U5vkXDZ9DwXtkPqlB45tfYnnYBN8PePp1z/XDCupnSpdrxT8/ThCv9WCwPLf9oqiSGZTkH6dx2jDUPuoXpjkcA==
+"@electron/get@^1.13.0":
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/@electron/get/-/get-1.14.1.tgz#16ba75f02dffb74c23965e72d617adc721d27f40"
+  integrity sha512-BrZYyL/6m0ZXz/lDxy/nlVhQz+WF+iPS6qXolEU8atw7h6v1aYkjwJZ63m+bJMBTxDE66X+r2tPS4a/8C82sZw==
   dependencies:
     debug "^4.1.1"
     env-paths "^2.2.0"
@@ -4535,12 +4535,12 @@ electron-to-chromium@^1.4.17:
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.18.tgz#2fb282213937986a20a653315963070e8321b3f3"
   integrity sha512-i7nKjGGBE1+YUIbfLObA1EZPmN7J1ITEllbhusDk+KIk6V6gUxN9PFe36v+Sd+8Cg0k3cgUv9lQhQZalr8rggw==
 
-electron@^13.6.7:
-  version "13.6.7"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-13.6.7.tgz#7e28c54c67ef867426216bd8334bf79bc9ef7d2a"
-  integrity sha512-gzCru/TpyCZ3yRjR/TVKph6Q/rmFZnLszxoeESaiijHjobB0xxr2oTHQLGVhpali2ddrM+4Pz6+MyZwS6Us+xA==
+electron@^17.2.0:
+  version "17.2.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-17.2.0.tgz#a5c42c16352ea968fcb5d1ce256bec51e7d140fe"
+  integrity sha512-eNXhPVEUofkgAeqRFvTizzYecoCMyS0Rar08WZHSAw9wjfZXawYMvTpjjjk9GiX9W/+Cjxua4YtGn5bOTabc0A==
   dependencies:
-    "@electron/get" "^1.0.1"
+    "@electron/get" "^1.13.0"
     "@types/node" "^14.6.2"
     extract-zip "^1.0.3"
 
